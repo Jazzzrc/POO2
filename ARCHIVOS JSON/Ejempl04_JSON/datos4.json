@@ -1,0 +1,15 @@
+{
+    "nombre":"Enrique",
+    "apellidos":"Arevalo Arce",
+    "edad":42,
+    "asignaturas": [
+        {
+            "id": 1,
+            "nombre": "POO 1"
+        },
+        {
+            "id": 2,
+            "nombre": "POO 2"
+        }
+    ]
+}
